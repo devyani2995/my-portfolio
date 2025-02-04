@@ -82,6 +82,13 @@ const data = [
     link:"https://github.com/devyani2995/ChatterUp_App",
     desc: "ChatterUp is a real-time chat application that allows users to connect, send messages, and view online users. The app uses Socket.IO for real-time communication and MongoDB for storing chat history."
   },
+  {
+    id: 9,
+    title: "I-Pod",
+    img: "./image/ipod.png",
+    link:"https://github.com/devyani2995/Codingninjas-Ipod-Project",
+    desc: "This project is a web-based simulation of the classic iPod interface, built using React.js.Users can navigate through various options such as Music, Games, and Settings, just like on a real iPod."
+  },
 ]
 
 // Function to display projects
