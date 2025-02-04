@@ -84,7 +84,7 @@ const data = [
   },
   {
     id: 9,
-    title: "I-Pod Project",
+    title: "I-Pod App",
     img: "./image/ipod.png",
     link:"https://github.com/devyani2995/Codingninjas-Ipod-Project",
     desc: "This project is a web-based simulation of the classic iPod interface, built using React.js.Users can navigate through various options such as Music, Games, and Settings, just like on a real iPod."
